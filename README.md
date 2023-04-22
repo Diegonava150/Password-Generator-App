@@ -2,6 +2,6 @@
 
 https://nava-password-generator.netlify.app/
 
-Fourth Project
+4th Project
 
 ** Creating projects including simple and advanced ones.
